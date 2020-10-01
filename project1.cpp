@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream.h>
 
 #include<math.h>
 
@@ -132,6 +132,9 @@ case 9:
     cout<<"1001";
 
     break;
+  
+ default:
+  cout<<"this option is not available";
 
 
 }
